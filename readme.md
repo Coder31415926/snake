@@ -11,13 +11,11 @@ This was written in python using the Pygame library. The pygame library is very 
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Python Docs](https://docs.python.org/3/)
 * [Pygame](https://www.pygame.org/docs/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * Add a better level system
 * Add a main menu with options for playing
 * Make the snake look like a snake
